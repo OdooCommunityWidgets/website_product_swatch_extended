@@ -1,5 +1,5 @@
-website_product_swatch_image
-============================
+website_product_swatch_extended
+===============================
 
 Website Product Swatch Image
 
